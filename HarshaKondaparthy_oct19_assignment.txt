@@ -51,7 +51,7 @@ public class FileW {
     public static void main(String[] args) {
         FileWriter fileWriter = null;
         try {
-            fileWriter = new FileWriter("C:\\Users\kbidar\Desktop\hello.txt"); 
+            fileWriter = new FileWriter("C:\\Users\sakondap\Desktop\hello.txt"); 
             fileWriter.write(65);
             fileWriter.write(66);
             fileWriter.write(67);
